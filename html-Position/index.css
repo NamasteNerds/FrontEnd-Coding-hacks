@@ -1,0 +1,53 @@
+/* .panda5 {
+  border-radius: 50% / 25%;
+} */
+
+/* box shadow */
+/* .img1 {
+  box-shadow: 10px 5px 10px blue;
+  box-shadow: 10px 5px 10px blue;
+  filter: drop-shadow(10px 5px 10px blue);
+} */
+
+/* Border radius */
+/* .img1 {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(214, 174, 122);
+}
+
+.panda1 {
+  border-radius: 50%;
+}
+
+.panda2 {
+  border-radius: 10px;
+}
+
+.panda3 {
+  border-radius: 30px;
+}
+
+.panda4 {
+  border-radius: 50% 10% 50% 10% /
+  10% 50% 10% 50%;
+} */
+
+.container {
+  width: 300px;
+  height: 250px;
+  background-color: rgb(197, 172, 102);
+}
+
+.imgposition {
+  height: 80px;
+  width: 80px;
+  background-color: rgb(214, 174, 122);
+  justify-content: center;
+  align-items: center;
+}
+
+.imgposition {
+  /* top right bottom left */
+  margin : 80px 40px 40px 100px;
+}
